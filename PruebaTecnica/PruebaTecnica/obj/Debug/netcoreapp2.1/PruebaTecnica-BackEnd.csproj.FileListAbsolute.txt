@@ -1,0 +1,16 @@
+C:\Users\Henry Senois\source\repos\PruebaTecnica\PruebaTecnica\bin\Debug\netcoreapp2.1\PruebaTecnica-BackEnd.deps.json
+C:\Users\Henry Senois\source\repos\PruebaTecnica\PruebaTecnica\bin\Debug\netcoreapp2.1\PruebaTecnica-BackEnd.runtimeconfig.json
+C:\Users\Henry Senois\source\repos\PruebaTecnica\PruebaTecnica\bin\Debug\netcoreapp2.1\PruebaTecnica-BackEnd.runtimeconfig.dev.json
+C:\Users\Henry Senois\source\repos\PruebaTecnica\PruebaTecnica\bin\Debug\netcoreapp2.1\PruebaTecnica-BackEnd.dll
+C:\Users\Henry Senois\source\repos\PruebaTecnica\PruebaTecnica\bin\Debug\netcoreapp2.1\PruebaTecnica-BackEnd.pdb
+C:\Users\Henry Senois\source\repos\PruebaTecnica\PruebaTecnica\bin\Debug\netcoreapp2.1\PruebaTecnica-BackEnd.Views.dll
+C:\Users\Henry Senois\source\repos\PruebaTecnica\PruebaTecnica\obj\Debug\netcoreapp2.1\PruebaTecnica-BackEnd.csprojAssemblyReference.cache
+C:\Users\Henry Senois\source\repos\PruebaTecnica\PruebaTecnica\obj\Debug\netcoreapp2.1\PruebaTecnica-BackEnd.csproj.CoreCompileInputs.cache
+C:\Users\Henry Senois\source\repos\PruebaTecnica\PruebaTecnica\obj\Debug\netcoreapp2.1\PruebaTecnica-BackEnd.RazorAssemblyInfo.cache
+C:\Users\Henry Senois\source\repos\PruebaTecnica\PruebaTecnica\obj\Debug\netcoreapp2.1\PruebaTecnica-BackEnd.RazorAssemblyInfo.cs
+C:\Users\Henry Senois\source\repos\PruebaTecnica\PruebaTecnica\obj\Debug\netcoreapp2.1\PruebaTecnica-BackEnd.AssemblyInfoInputs.cache
+C:\Users\Henry Senois\source\repos\PruebaTecnica\PruebaTecnica\obj\Debug\netcoreapp2.1\PruebaTecnica-BackEnd.AssemblyInfo.cs
+C:\Users\Henry Senois\source\repos\PruebaTecnica\PruebaTecnica\obj\Debug\netcoreapp2.1\PruebaTecnica-BackEnd.RazorTargetAssemblyInfo.cache
+C:\Users\Henry Senois\source\repos\PruebaTecnica\PruebaTecnica\obj\Debug\netcoreapp2.1\PruebaTecnica-BackEnd.dll
+C:\Users\Henry Senois\source\repos\PruebaTecnica\PruebaTecnica\obj\Debug\netcoreapp2.1\PruebaTecnica-BackEnd.pdb
+C:\Users\Henry Senois\source\repos\PruebaTecnica\PruebaTecnica\obj\Debug\netcoreapp2.1\PruebaTecnica-BackEnd.csproj.CopyComplete
